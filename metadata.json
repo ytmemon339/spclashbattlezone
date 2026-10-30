@@ -1,0 +1,6 @@
+{
+  "name": "SP Clash Battle Zone",
+  "description": "Competitive Free Fire esports tournament platform for Pakistan Server with instant OPay QR deposits, JazzCash, Easypaisa, live room credentials, and PKR prize distributions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
